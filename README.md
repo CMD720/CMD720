@@ -2,7 +2,7 @@
 * ###  `I'm currently learning  Frontend development`
 
 
-### 💻 Tech Stack:
+### 💻 Skills:
 <img alt="HTML" src="./img/stack/html-logo.png" width="30" height="30"><img alt="CSS" style="margin-right: 8px;"  src="./img/stack/css.png" width="30" height="30">
 <img alt="SCSS" src="./img/stack/sass-logo.png" width="40" height="30">
 <img alt="JavaScript" src="./img/stack/jsLogo.png" width="30" height="30"> 
