@@ -17,9 +17,11 @@
 ---
 
 
-![](https://github-readme-stats.vercel.app/api?username=cmd720&theme=default&hide_border=false&count_private=false)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmd720)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmd720&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmd720&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cmd720&icon=4&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=cmd720)
